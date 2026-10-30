@@ -3,4 +3,5 @@ Commit 1
 Commit 2
 
 Commit 3
-Git Stash
+Git Stash apply
+Git Stash apply reapply
